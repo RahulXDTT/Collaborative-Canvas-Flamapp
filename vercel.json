@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "projectSettings": {
-    "nodeVersion": "18.x"
-  },
-  "buildCommand": "cd client && npm install && npm run build",
+  "buildCommand": "npm run build",
   "installCommand": "npm install",
-  "env": {
-    "VITE_SERVER_URL": "@vite_server_url"
-  },
+  "outputDirectory": "dist",
   "rewrites": [
     {
       "source": "/(.*)",
