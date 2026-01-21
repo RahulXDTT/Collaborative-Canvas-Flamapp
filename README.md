@@ -85,14 +85,13 @@ Please add these files (names are suggestions—change as you like, just keep li
 
 Then embed them here:
 
-```md
+
 ![Join Screen](./images/ui_join.png)
 ![Two Users Drawing](./images/ui_multiplayer.png)
 ![Tools Panel](./images/ui_tools.png)
 ![View Mode](./images/ui_view_mode.png)
 
 
-````md
 ## Quick Start (Local)
 
 ### Prerequisites
