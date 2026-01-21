@@ -130,7 +130,4 @@ This avoids repainting “everything” every pointer move and keeps compositing
 
 ---
 
-## Optional: Message Schema Diagram (Mermaid)
 
-If you want, you can add a compact Mermaid class diagram for `JoinPayload`, `OpEnvelope`, and stroke ops here.
-(Useful for quickly understanding payload shapes without opening `protocol.ts`.)
