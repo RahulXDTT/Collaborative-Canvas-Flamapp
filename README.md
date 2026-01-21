@@ -72,24 +72,14 @@ Collaborative Canvas is a lightweight “whiteboard” app where multiple users 
 
 ---
 
-## Screenshots & Media (add yours)
+## Screenshots & Media
+![Join Screen](./images/ui_join.png) — join screen / sidebar
+![Two Users Drawing](./images/ui_multiplayer.png) — two browsers drawing in the same room
 
-All images live in `./images`.
+![Tools Panel](./images/ui_tools.png) — brush/eraser/shapes demo
 
-### Add these UI screenshots (you should create them)
-Please add these files (names are suggestions—change as you like, just keep links updated):
-- `./images/ui_join.png` — join screen / sidebar
-- `./images/ui_multiplayer.png` — two browsers drawing in the same room
-- `./images/ui_tools.png` — brush/eraser/shapes demo
-- `./images/ui_view_mode.png` — view-mode user watching an editor
+![View Mode](./images/ui_view_mode.png) — view-mode user watching an editor
 
-Then embed them here:
-
-
-![Join Screen](./images/ui_join.png)
-![Two Users Drawing](./images/ui_multiplayer.png)
-![Tools Panel](./images/ui_tools.png)
-![View Mode](./images/ui_view_mode.png)
 
 
 ## Quick Start (Local)
