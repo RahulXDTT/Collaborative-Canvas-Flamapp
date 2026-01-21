@@ -330,10 +330,4 @@ collaborative-canvas-1/
 ```
 
 
-## Roadmap (optional)
-
-* Per-user undo/redo (in addition to global)
-* Stroke simplification/compression for long sessions
-* Better reconnect strategy (replay missing seq range instead of full sync)
-* Production deployment guide (configurable CORS + hosted client)
 
