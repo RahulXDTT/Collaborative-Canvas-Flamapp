@@ -9,7 +9,7 @@ A multi-user, real-time collaborative drawing app built with **React + TypeScrip
 - [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Screenshots & Media (add yours)](#screenshots--media-add-yours)
+- [Screenshots & Media](#screenshots--media)
 - [Quick Start (Local)](#quick-start-local)
 - [How to Use](#how-to-use)
 - [Persistence (Room Save Files)](#persistence-room-save-files)
