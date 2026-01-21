@@ -7,8 +7,8 @@ import { Server } from "socket.io";
 import { RoomsManager } from "./rooms.js";
 import { validateClientOp, validateJoin, type CursorPayload } from "./protocol.js";
 
-const PORT = 8081;
-const CLIENT_ORIGIN = "http://localhost:5173";
+const PORT = Number(process.env.PORT ?? 8081);
+const CLIENT_ORIGIN = process.env.CLIENT_ORIGIN ?? "http://localhost:5173";
 
 const app = express();
 app.use(cors({ origin: CLIENT_ORIGIN }));

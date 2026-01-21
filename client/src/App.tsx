@@ -5,7 +5,7 @@ import { realtime } from "./net/socket";
 import { roomStore } from "./state/roomStore";
 import CanvasStage from "./canvas/CanvasStage";
 
-const SERVER_URL = "http://localhost:8081";
+const SERVER_URL = import.meta.env.VITE_SERVER_URL ?? "http://localhost:8081";
 
 type Theme = "light" | "dark";
 const THEME_KEY = "collab_theme";
