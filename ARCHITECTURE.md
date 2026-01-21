@@ -90,7 +90,7 @@
 
 ## Performance Decisions
 
-![Performance Decisions](./images/performance_conflicts.png)
+![Performance Decisions](./images/performance_decision.png)
 
 **Layered canvases (see `CanvasStage.tsx`)**
 - **Base** redraws from committed strokes.

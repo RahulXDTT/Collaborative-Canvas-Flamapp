@@ -9,7 +9,7 @@ A multi-user, real-time collaborative drawing app built with **React + TypeScrip
 - [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Screenshots & Media (add yours)](#screenshots--media-add-yours)
+- [Screenshots & Media](#screenshots--media)
 - [Quick Start (Local)](#quick-start-local)
 - [How to Use](#how-to-use)
 - [Persistence (Room Save Files)](#persistence-room-save-files)
@@ -72,27 +72,16 @@ Collaborative Canvas is a lightweight “whiteboard” app where multiple users 
 
 ---
 
-## Screenshots & Media (add yours)
+## Screenshots & Media
+![Join Screen](./images/ui_join.png) — join screen / sidebar
+![Two Users Drawing](./images/ui_multiplayer.png) — two browsers drawing in the same room
 
-All images live in `./images`.
+![Tools Panel](./images/ui_tools.png) — brush/eraser/shapes demo
 
-### Add these UI screenshots (you should create them)
-Please add these files (names are suggestions—change as you like, just keep links updated):
-- `./images/ui_join.png` — join screen / sidebar
-- `./images/ui_multiplayer.png` — two browsers drawing in the same room
-- `./images/ui_tools.png` — brush/eraser/shapes demo
-- `./images/ui_view_mode.png` — view-mode user watching an editor
-
-Then embed them here:
-
-```md
-![Join Screen](./images/ui_join.png)
-![Two Users Drawing](./images/ui_multiplayer.png)
-![Tools Panel](./images/ui_tools.png)
-![View Mode](./images/ui_view_mode.png)
+![View Mode](./images/ui_view_mode.png) — view-mode user watching an editor
 
 
-````md
+
 ## Quick Start (Local)
 
 ### Prerequisites
@@ -341,10 +330,4 @@ collaborative-canvas-1/
 ```
 
 
-## Roadmap (optional)
-
-* Per-user undo/redo (in addition to global)
-* Stroke simplification/compression for long sessions
-* Better reconnect strategy (replay missing seq range instead of full sync)
-* Production deployment guide (configurable CORS + hosted client)
 
