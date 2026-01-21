@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/canvas/canvasstage.tsx","./src/canvas/drawengine.ts","./src/net/protocol.ts","./src/net/socket.ts","./src/state/roomstore.ts"],"version":"5.9.3"}
